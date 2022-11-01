@@ -36,6 +36,8 @@ include_once("template/header.php");
 </div>
 
 
+ 
+
 <?php
 include_once("template/footer.php");
 ?>
